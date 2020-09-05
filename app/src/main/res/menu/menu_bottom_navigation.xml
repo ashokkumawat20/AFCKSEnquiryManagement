@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_home"
+        android:checked="true"
+        android:icon="@drawable/icon_home"
+        android:title="@string/tab1"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_location"
+        android:checked="false"
+        android:icon="@drawable/ic_location_on_black_24dp"
+        android:title="@string/tab3"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_course"
+        android:checked="false"
+        android:icon="@drawable/open_book"
+        android:title="@string/tab2"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/action_template"
+        android:checked="false"
+        android:icon="@drawable/template_icon"
+        android:title="@string/tab4"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_comment"
+        android:checked="false"
+        android:icon="@drawable/c_icon"
+        android:title="@string/tab5"
+        app:showAsAction="ifRoom" />
+</menu>

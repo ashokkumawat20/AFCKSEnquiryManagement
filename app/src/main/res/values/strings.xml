@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">AFCKS Enquiry Management</string>
+    <string name="course_name">Course Name</string>
+    <string name="start_date">Start date</string>
+    <string name="Status">Status</string>
+    <string name="location">Location</string>
+    <string name="Trainer">Trainer</string>
+    <string name="Timing">Timings</string>
+    <string name="Notes">Notes</string>
+    <string name="Fees">Fees</string>
+    <string name="Duration">Duration</string>
+    <string name="Frequency">Frequency</string>
+    <string name="Mobile">Mobile</string>
+    <string name="Mailid">Email</string>
+    <string name="Site">Site</string>
+    <string name="Afcks">*AFCKS TECHNOLOGIES*</string>
+    <string name="Afcksnew">AFCKS TECHNOLOGIES</string>
+
+    <string name="action_status">Templates</string>
+    <string name="action_sync">Sync</string>
+    <string name="action_login">Login</string>
+    <string name="description_refresh">Sync</string>
+    <string name="loading">Waiting for sync...</string>
+
+    <string name="tab1">HOME</string>
+    <string name="tab2">COURSES</string>
+    <string name="tab3">LOCATION</string>
+    <string name="tab4">TEMPLATE</string>
+    <string name="tab5">COMMENTS</string>
+</resources>
